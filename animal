@@ -1,0 +1,8 @@
+Class Generic Animal{
+  //this is a generic class
+  
+  int main(){
+      cout("This is a generic class.");
+      println("We will configure it");
+      }
+}
