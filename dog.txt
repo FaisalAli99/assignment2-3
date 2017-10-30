@@ -1,0 +1,15 @@
+class Dog
+{
+
+
+	public static void main(string args[]) 
+	{
+
+
+		System.out.println("THIS IS A NOT A Dog CLASS ");
+
+
+	}
+
+
+};
