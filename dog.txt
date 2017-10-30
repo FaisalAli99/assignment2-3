@@ -2,10 +2,9 @@ class Dog{
 
 
 	public static void main(string args[]){
-
-
-	System.out.println("THIS IS A Dog CLASS ");
-
+	COUT<<"hELLO TO the futuere..."
+	a+=1;
+	B=B+1;
 
 	}
 
